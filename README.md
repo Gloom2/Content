@@ -1,0 +1,3 @@
+# Content
+Content for Gloom 2
+This is where we upload our content files, images, sounds, etc...
